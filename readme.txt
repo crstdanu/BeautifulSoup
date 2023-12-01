@@ -1,0 +1,1 @@
+In this project I scrape olx.ro in finding and retrieving informations about car adds

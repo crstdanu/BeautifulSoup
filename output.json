@@ -1,0 +1,678 @@
+[
+    {
+        "Nume anunt": "DACIA DUSTER 1.5 DCI 2011 Mocca Brown **Numere Toll valabile",
+        "Pret": 5590,
+        "Anul fabricatiei": "2011",
+        "Kilometraj": "180 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Skoda Fabia  2012  ,inmatriculata ,acte in regula,impecabila",
+        "Pret": 4800,
+        "Anul fabricatiei": "2012",
+        "Kilometraj": "171 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkwagen Up! An 2015 1.0 benzina",
+        "Pret": 4490,
+        "Anul fabricatiei": "2015",
+        "Kilometraj": "190 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat Toledo 2014, 1.6 TDI, 105 cp, volan pe dreapta, CAYC",
+        "Pret": 2680,
+        "Anul fabricatiei": "2014",
+        "Kilometraj": "150 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Laguna",
+        "Pret": 4590,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "180 700",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkswagen Touran an 2010 1.9 tdi 105 cp 7locuri",
+        "Pret": 5750,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "240 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vw GOLF 6 / Euro 5 / 2013 / Navi, Paktronic, Pilot",
+        "Pret": 5100,
+        "Anul fabricatiei": "2013",
+        "Kilometraj": "307 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat Cordoba 2007! Inmatriculata RO!",
+        "Pret": 2550,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "263 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Skoda Octavia Berlin\u0103 1.9 TDI. 2008",
+        "Pret": 2800,
+        "Anul fabricatiei": "2008",
+        "Kilometraj": "304 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Zafira B 1.7 2011 125 c.p.",
+        "Pret": 3500,
+        "Anul fabricatiei": "2011",
+        "Kilometraj": "290 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkswagen Passat B6 ~ DSG ~ Navi ~ 2009",
+        "Pret": 3899,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "287 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkswagen Touran an 2010 1.9 tdi 105 cp 7locuri",
+        "Pret": 5750,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "240 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat toledo 1.6 tdi",
+        "Pret": 4000,
+        "Anul fabricatiei": "2017",
+        "Kilometraj": "280 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Nissan  XTrail",
+        "Pret": 3250,
+        "Anul fabricatiei": "2002",
+        "Kilometraj": "198 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Peugeot 308 2012",
+        "Pret": 3999,
+        "Anul fabricatiei": "2012",
+        "Kilometraj": "292 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Skoda Octavia Elegance 4x4",
+        "Pret": 4750,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "312 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "BMW 320D 2006 Italia",
+        "Pret": 2800,
+        "Anul fabricatiei": "2006",
+        "Kilometraj": "268 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "mercedes ml 270 , motor 2.7 , manuala , 4*4",
+        "Pret": 3000,
+        "Anul fabricatiei": "2004",
+        "Kilometraj": "2004",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Honda HRV GH3/ 2003. Benzina, 1,6. Este 2x",
+        "Pret": 1800,
+        "Anul fabricatiei": "2003",
+        "Kilometraj": "290 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand bmw e46 320 d 136cp",
+        "Pret": 1850,
+        "Anul fabricatiei": "",
+        "Kilometraj": "",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Peugeot 308 SW, 1.6 Blue HDI, 2014, recent importat, inmatriculata.",
+        "Pret": 6000,
+        "Anul fabricatiei": "2014",
+        "Kilometraj": "193 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand opel astra g Bertone 1.8 benzina +Gpl",
+        "Pret": 1700,
+        "Anul fabricatiei": "",
+        "Kilometraj": "",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Peugeot 308 2012",
+        "Pret": 3999,
+        "Anul fabricatiei": "2012",
+        "Kilometraj": "292 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Megane 2L GT \u00een dou\u0103 portiere",
+        "Pret": 4200,
+        "Anul fabricatiei": "16",
+        "Kilometraj": "167 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nzare autoturism",
+        "Pret": 2119,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "2007",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Volkswagen Touran 2006 1.9 TDI",
+        "Pret": 2500,
+        "Anul fabricatiei": "2006",
+        "Kilometraj": "286 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd  Volkswagen lt 35",
+        "Pret": 3200,
+        "Anul fabricatiei": "1999",
+        "Kilometraj": "44 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat Toledo 2003, 1.6 benzina",
+        "Pret": 1800,
+        "Anul fabricatiei": "2003",
+        "Kilometraj": "224 770",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Grand Scenic / 2009 / 1.5 dCi / 105 CP / Garantie 12 luni / RATE",
+        "Pret": 4990,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "228 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Toyota Rav 4, model 1997 motor 2.0 benzina",
+        "Pret": 4000,
+        "Anul fabricatiei": "1997",
+        "Kilometraj": "259 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "DACIA DUSTER 1.5 DCI 2011 Mocca Brown **Numere Toll valabile",
+        "Pret": 5590,
+        "Anul fabricatiei": "2011",
+        "Kilometraj": "180 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Doar AZI! TOUAREG MANUAL 3.0d pe ARCURI! Navi MARE, carlig 3.5t,camer\u0103",
+        "Pret": 4999,
+        "Anul fabricatiei": "2008",
+        "Kilometraj": "199 166",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "VW GOLF 6=2010=1.4=122CP=E5=Dublu Clima=Comp=Navi=",
+        "Pret": 5490,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "215 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Doar AZI! TOUAREG MANUAL 3.0d pe ARCURI! Navi MARE, carlig 3.5t,camer\u0103",
+        "Pret": 4999,
+        "Anul fabricatiei": "2008",
+        "Kilometraj": "199 166",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Ford Focus Euro 5",
+        "Pret": 3099,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "207 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Dacia sandero 2016 Euro 6",
+        "Pret": 5100,
+        "Anul fabricatiei": "2016",
+        "Kilometraj": "98 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Dacia MCW 1.6 Mpi benzina 2010",
+        "Pret": 3301,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "128 500",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand audi a3 1500\u20ac usor negociabil",
+        "Pret": 1500,
+        "Anul fabricatiei": "2001",
+        "Kilometraj": "2001",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Logan MCV 2oo9 1.5 diesel",
+        "Pret": 450,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "440 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    }
+][
+    {
+        "Nume anunt": "Seat Toledo 2014, 1.6 TDI, 105 cp, volan pe dreapta, CAYC",
+        "Pret": 2680,
+        "Anul fabricatiei": "2014",
+        "Kilometraj": "150 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Skoda Fabia  2012  ,inmatriculata ,acte in regula,impecabila",
+        "Pret": 4800,
+        "Anul fabricatiei": "2012",
+        "Kilometraj": "171 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkwagen Up! An 2015 1.0 benzina",
+        "Pret": 4490,
+        "Anul fabricatiei": "2015",
+        "Kilometraj": "190 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Laguna",
+        "Pret": 4590,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "180 700",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkswagen Touran an 2010 1.9 tdi 105 cp 7locuri",
+        "Pret": 5750,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "240 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vw GOLF 6 / Euro 5 / 2013 / Navi, Paktronic, Pilot",
+        "Pret": 5100,
+        "Anul fabricatiei": "2013",
+        "Kilometraj": "307 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat Cordoba 2007! Inmatriculata RO!",
+        "Pret": 2550,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "263 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Skoda Octavia Berlin\u0103 1.9 TDI. 2008",
+        "Pret": 2800,
+        "Anul fabricatiei": "2008",
+        "Kilometraj": "304 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Zafira B 1.7 2011 125 c.p.",
+        "Pret": 3500,
+        "Anul fabricatiei": "2011",
+        "Kilometraj": "290 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Volkswagen Passat B6 ~ DSG ~ Navi ~ 2009",
+        "Pret": 3899,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "287 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat toledo 1.6 tdi",
+        "Pret": 4000,
+        "Anul fabricatiei": "2017",
+        "Kilometraj": "280 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Nissan  XTrail",
+        "Pret": 3250,
+        "Anul fabricatiei": "2002",
+        "Kilometraj": "198 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Peugeot 308 2012",
+        "Pret": 3999,
+        "Anul fabricatiei": "2012",
+        "Kilometraj": "292 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Skoda Octavia Elegance 4x4",
+        "Pret": 4750,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "312 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "BMW 320D 2006 Italia",
+        "Pret": 2800,
+        "Anul fabricatiei": "2006",
+        "Kilometraj": "268 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "mercedes ml 270 , motor 2.7 , manuala , 4*4",
+        "Pret": 3000,
+        "Anul fabricatiei": "2004",
+        "Kilometraj": "2004",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Honda HRV GH3/ 2003. Benzina, 1,6. Este 2x",
+        "Pret": 1800,
+        "Anul fabricatiei": "2003",
+        "Kilometraj": "290 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand bmw e46 320 d 136cp",
+        "Pret": 1850,
+        "Anul fabricatiei": "",
+        "Kilometraj": "",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Peugeot 308 SW, 1.6 Blue HDI, 2014, recent importat, inmatriculata.",
+        "Pret": 6000,
+        "Anul fabricatiei": "2014",
+        "Kilometraj": "193 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand opel astra g Bertone 1.8 benzina +Gpl",
+        "Pret": 1700,
+        "Anul fabricatiei": "",
+        "Kilometraj": "",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Megane 2L GT \u00een dou\u0103 portiere",
+        "Pret": 4200,
+        "Anul fabricatiei": "16",
+        "Kilometraj": "167 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nzare autoturism",
+        "Pret": 2119,
+        "Anul fabricatiei": "2007",
+        "Kilometraj": "2007",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd Volkswagen Touran 2006 1.9 TDI",
+        "Pret": 2500,
+        "Anul fabricatiei": "2006",
+        "Kilometraj": "286 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "V\u00e2nd  Volkswagen lt 35",
+        "Pret": 3200,
+        "Anul fabricatiei": "1999",
+        "Kilometraj": "44 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Seat Toledo 2003, 1.6 benzina",
+        "Pret": 1800,
+        "Anul fabricatiei": "2003",
+        "Kilometraj": "224 770",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Renault Grand Scenic / 2009 / 1.5 dCi / 105 CP / Garantie 12 luni / RATE",
+        "Pret": 4990,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "228 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Toyota Rav 4, model 1997 motor 2.0 benzina",
+        "Pret": 4000,
+        "Anul fabricatiei": "1997",
+        "Kilometraj": "259 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "DACIA DUSTER 1.5 DCI 2011 Mocca Brown **Numere Toll valabile",
+        "Pret": 5590,
+        "Anul fabricatiei": "2011",
+        "Kilometraj": "180 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Doar AZI! TOUAREG MANUAL 3.0d pe ARCURI! Navi MARE, carlig 3.5t,camer\u0103",
+        "Pret": 4999,
+        "Anul fabricatiei": "2008",
+        "Kilometraj": "199 166",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "VW GOLF 6=2010=1.4=122CP=E5=Dublu Clima=Comp=Navi=",
+        "Pret": 5490,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "215 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "VW GOLF 6=2010=1.4=122CP=E5=Dublu Clima=Comp=Navi=",
+        "Pret": 5490,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "215 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Ford Focus Euro 5",
+        "Pret": 3099,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "207 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Dacia sandero 2016 Euro 6",
+        "Pret": 5100,
+        "Anul fabricatiei": "2016",
+        "Kilometraj": "98 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Dacia MCW 1.6 Mpi benzina 2010",
+        "Pret": 3301,
+        "Anul fabricatiei": "2010",
+        "Kilometraj": "128 500",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Vand audi a3 1500\u20ac usor negociabil",
+        "Pret": 1500,
+        "Anul fabricatiei": "2001",
+        "Kilometraj": "2001",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    },
+    {
+        "Nume anunt": "Logan MCV 2oo9 1.5 diesel",
+        "Pret": 450,
+        "Anul fabricatiei": "2009",
+        "Kilometraj": "440 000",
+        "Detalii": null,
+        "Data anuntului": null,
+        "Ora anuntului": null
+    }
+]

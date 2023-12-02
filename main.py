@@ -39,6 +39,6 @@ lista_masini = scrape_cars(URL)
 print(lista_masini[0])
 
 
-# output = "lista_masini.json"
-# with open("output.json", "a") as f:
-#     json.dump(lista_masini, f, indent=4)
+output = "lista_masini.json"
+with open("output.json", "a") as f:
+    json.dump(lista_masini, f, indent=4)

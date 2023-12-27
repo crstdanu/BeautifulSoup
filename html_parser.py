@@ -5,9 +5,6 @@ from datetime import date
 import time
 
 
-URL = "https://www.olx.ro/auto-masini-moto-ambarcatiuni/iasi_39939/?currency=EUR&search%5Bfilter_float_price:to%5D=5000"
-
-
 def scrape(URL):
     response = requests.get(URL).text
     soup = BeautifulSoup(response, "html.parser")
@@ -30,16 +27,23 @@ def scrape(URL):
         if ("Azi" in ad_location_date) and ad_year_km:
             ad_name = car_ad.find('h6', class_="css-16v5mdi").text
             ad_link = car_ad.find('a')['href']
-            ad_price = car_ad.find('p', class_="css-10b0gli").text
+            ad_price_raw = car_ad.find('p', class_="css-10b0gli").text
+            ad_price = ""
+            for elem in ad_price_raw:
+                if elem.isdigit():
+                    ad_price += elem
             my_dict['ID'] = str(id)
             my_dict['nume anunt'] = str(ad_name)
             my_dict['link anunt'] = str(ad_link)
             my_dict['pret'] = str(ad_price)
             my_dict['anul si kilometrajul'] = str(ad_year_km.text)
             my_dict['data anuntului'] = str(date.today())
-            my_dict['ora anuntului'] = str(ad_location_date[-4:])
+            my_dict['ora anuntului'] = str(ad_location_date[-5:])
             with open(f"masini/{id}.json", "w") as f:
                 json.dump(my_dict, f, indent=4)
+
+
+URL = "https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme/iasi_39939/?currency=EUR&search%5Bfilter_float_price%3Ato%5D=5000"
 
 
 if __name__ == "__main__":

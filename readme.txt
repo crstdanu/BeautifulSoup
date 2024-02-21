@@ -1,1 +1,1 @@
-In this project I scrape olx.ro in finding and retrieving informations about car adds
+I utilized the Beautiful Soup and Requests libraries to scrape data from OLX.ro, extracting informations. Additionally, I developed my skills in file handling, learning operations such as reading, writing, appending, and creating files.
